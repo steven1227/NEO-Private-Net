@@ -6,7 +6,7 @@ This repository contains a configured private-chain and you can run it after dow
 The neo-cli version is 2.8.0.
 All of the NEO and GAS are taken into the wallet 1.json, the password is 11111111. The blockchain height is approximately 30.
 
-## 运行环境
+## Running environment
 
 Windows10
 
@@ -14,7 +14,7 @@ Run neo-cli need [.NET Core 2.1](https://www.microsoft.com/net/download/thank-yo
 
 Run neo-gui need [.NetFramework 4.7.1](https://www.microsoft.com/net/download/dotnet-framework-runtime) and [VC++ 2010 Redist x64](https://www.microsoft.com/en-us/download/details.aspx?id=14632) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=5555) or above
 
-## 启动私有链
+## Start the private net
 
 enter node1 folder，double click `1Run.cmd`
 
