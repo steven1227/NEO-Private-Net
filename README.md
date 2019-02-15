@@ -1,32 +1,35 @@
 # NEO-Private-Net
 NEO Private Net
 
-## 说明
-项目中的文件为已配置好的私有链，下载后可以直接运行。
-共识节点版本为 neo-cli 2.8.0，已提取 NEO 和 GAS，提到到钱包 1.json 中，密码为 11111111，区块高度为 30 左右。
+## Explaination
+This repository contains a configured private-chain and you can run it after downloads.
+The neo-cli version is 2.8.0.
+All of the NEO and GAS are taken into the wallet 1.json, the password is 11111111. The blockchain height is approximately 30.
 
 ## 运行环境
 
 Windows10
 
-运行 neo-cli 需要安装 [.NET Core 2.1](https://www.microsoft.com/net/download/thank-you/dotnet-runtime-2.1.3-windows-hosting-bundle-installer)
+Run neo-cli need [.NET Core 2.1](https://www.microsoft.com/net/download/thank-you/dotnet-runtime-2.1.3-windows-hosting-bundle-installer) or avove
 
-运行 neo-gui 需要安装 [.NetFramework 4.7.1](https://www.microsoft.com/net/download/dotnet-framework-runtime) 以及 [VC++ 2010 Redist x64](https://www.microsoft.com/en-us/download/details.aspx?id=14632) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=5555)
+Run neo-gui need [.NetFramework 4.7.1](https://www.microsoft.com/net/download/dotnet-framework-runtime) and [VC++ 2010 Redist x64](https://www.microsoft.com/en-us/download/details.aspx?id=14632) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=5555) or above
 
 ## 启动私有链
 
-进入 node1 目录，双击 `1Run.cmd`
+enter node1 folder，double click `1Run.cmd`
 
-进入 node2 目录，双击 `1Run.cmd`
+enter node2 folder，double click `1Run.cmd`
 
-进入 node3 目录，双击 `1Run.cmd`
+enter node3 folder，double click `1Run.cmd`
 
-进入 node4 目录，双击 `1Run.cmd`
+enter node3 folder，double click `1Run.cmd`
 
-如图所示：
+
+
+You will see like this：
 
 ![](img/privatechain_demo.png)
 
-## 停止私有链
+## Stop the private chain:
 
-在任务栏中右击 `命令提示符`，点击 `关闭所有窗口`。
+Close all of the command line window
