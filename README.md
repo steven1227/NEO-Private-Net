@@ -16,15 +16,16 @@ Run neo-gui need [.NetFramework 4.7.1](https://www.microsoft.com/net/download/do
 
 ## Start the private net
 
-enter node1 folder，double click `1Run.cmd`
+```
+enter node1 folder，double click  **1Run.cmd**
 
-enter node2 folder，double click `1Run.cmd`
+enter node2 folder，double click **1Run.cmd**
 
-enter node3 folder，double click `1Run.cmd`
+enter node3 folder，double click **1Run.cmd**
 
-enter node3 folder，double click `1Run.cmd`
+enter node4 folder，double click **1Run.cmd**
 
-
+```
 
 You will see like this：
 
