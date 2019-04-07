@@ -1,1 +1,1 @@
-dotnet neo-cli.dll /rpc
+dotnet neo-cli.dll /rpc --log
